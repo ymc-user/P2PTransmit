@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">LAN快传</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ret">返回</string>
+    <string name="click_send">单击文件即可发送</string>
+    <string name="choose_send">选择文件并发送</string>
+    <string name="choose_picture">选择照片并发送</string>
+    <string name="login">请输入您的文件传输码</string>
+    <string name="name">请输入您的用户名</string>
+    <string name="client">加入已创建的热点</string>
+    <string name="server">创建Wifi热点</string>
+    <string name="hint_for_send">请输入对方的文件传输码</string>
+    <string name="hint1">请选择接收者：</string>
+    <string name="send_contacts">同步本机通讯录给对方</string>
+    <string name="open_ap">开启热点</string>
+    <string name="ap_ssid">热点名称</string>
+    <string name="ap_key">热点密码</string>
+    <string name="confirm">确定</string>
+    <string name="process">查看进度</string>
+    <string name="click_send_app">点击以发送应用程序</string>
+
+
+    <string name="package_name">Package:</string>
+    <string name="version">版本号:</string>
+    <string name="label_name">Label:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click_set">点击任意APP查看使用详情并添加限制</string>
+    <string name="limit_using_times">限制使用时长</string>
+    <string name="using_time">使用时长</string>
+    <string name="cycle">周期</string>
+    <string name="limit_time">限制时长</string>
+    <string name="hour">时</string>
+    <string name="minute">分</string>
+
+    <string name="Second_avtivity">time</string>
+    <string name="myButtonText">开始倒计时</string>
+    <string name="text_select">设置时间</string>
+    <string name="textone_select">选择一种花</string>
+    <string name="user_scanning">正在扫描同一局域网内的用户...</string>
+    <string name="received_file_hint">单击文件可打开，长按可删除</string>
+    <string name="please_select">请选择</string>
+    <string name="scan_qrcode">使用本应用扫描此二维码，加入此局域网</string>
+</resources>
