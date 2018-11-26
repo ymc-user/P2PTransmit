@@ -150,6 +150,9 @@ public class WifiAutoConnectManager {
                 if(wifiManager.getConfiguredNetworks().get(k).networkId==netID){
                     netID=k;
                     break;
+                }else if (wifiManager.getConfiguredNetworks().get(k).SSID.equals(wifiConfig.SSID)&&wifiManager.getConfiguredNetworks().get(k).equals(wifiConfig.preSharedKey)){
+                    netID=k;
+                    break;
                 }
             }
             try {
